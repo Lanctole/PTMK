@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTMK2", "PTMK2\PTMK2.csproj", "{B361D7A4-648B-497A-9B68-535C19BE49BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B361D7A4-648B-497A-9B68-535C19BE49BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B361D7A4-648B-497A-9B68-535C19BE49BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B361D7A4-648B-497A-9B68-535C19BE49BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B361D7A4-648B-497A-9B68-535C19BE49BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD64630E-C75F-4BEF-874D-DAAD0FE29092}
+	EndGlobalSection
+EndGlobal
